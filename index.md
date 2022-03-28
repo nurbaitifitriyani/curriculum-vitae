@@ -1,1 +1,3 @@
 # CV
+
+![Kanya](index.jpg)
