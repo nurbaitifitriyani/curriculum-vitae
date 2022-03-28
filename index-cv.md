@@ -1,5 +1,5 @@
 ---
-title: 'Curriculum Vitae: Nurbaiti ”Kanya” Fitriyani'
+title: 'Curriculum Vitae: Nurbaiti "Kanya" Fitriyani'
 author: Nurbaiti Fitriyani
 ---
 
@@ -41,7 +41,7 @@ Jln. Karang Mojo-Srabi Lor, Getassrabi RT/RT 03/04, Gebog, Kudus, Jawa Tengah, I
 
 ### Media Sosial
 
-#### Insagram
+#### Instagram
 
 ##### Nurbaiti Fitriyani
 
@@ -61,6 +61,13 @@ Jln. Karang Mojo-Srabi Lor, Getassrabi RT/RT 03/04, Gebog, Kudus, Jawa Tengah, I
 - [Fotografi](https://www.shutterstock.com/g/nurbaitifitriyani?rid=258687946&utm_medium=email&utm_source=ctrbreferral-link)
 - [Penelitian Ilmiah](https://selarakta.xyz/akademik)
 - [Penulisan Kreatif](https://selarakta.xyz/sastra)
+
+## Hobi
+
+- Menonton Film
+- Membaca
+- Menulis
+- Bulutangkis
 
 ## Portofolio
 
@@ -104,18 +111,24 @@ Jln. Karang Mojo-Srabi Lor, Getassrabi RT/RT 03/04, Gebog, Kudus, Jawa Tengah, I
 
 ### Cerpen (2020-2021)
 
-***Kompas.id***, ***Beritajatim.com***
+- *Kompas.id*
+  1. [*Rumah untuk Istriku* (Kompas.id)](https://www.kompas.id/baca/cerpen-hiburan/2020/10/15/rumah-untuk-istriku)
+  2. [*Kado Pernikahan yang Sesungguhnya* (Kompas.id)](https://www.kompas.id/baca/cerpen-hiburan/2021/03/13/kado-pernikahan-yang-sesungguhnya)
 
-- [*Rumah untuk Istriku* (Kompas.id)](https://www.kompas.id/baca/cerpen-hiburan/2020/10/15/rumah-untuk-istriku)
-- [*Kado Pernikahan yang Sesungguhnya* (Kompas.id)](https://www.kompas.id/baca/cerpen-hiburan/2021/03/13/kado-pernikahan-yang-sesungguhnya)
-- [Ada Luka di Kaki Ibu (Beritajatim.com)](https://sastra.beritajatim.com/ada-luka-di-kaki-ibu/)
+- Beritajatim.com
+  1. [Ada Luka di Kaki Ibu (Beritajatim.com)](https://sastra.beritajatim.com/ada-luka-di-kaki-ibu/)
+- *Tajug.net*
+  1. [Kunjungan Jumat Wage](https://www.tajug.net/2020/10/kunjungan-jumat-wage.html)
+- *Biem.co*
+  1. [Hukuman untuk Istri Tukang Becak](https://www.biem.co/read/2020/08/08/62388/cerpen-kanya-ahayu-ning-yatika-akasawakya-hukuman-untuk-istri-tukang-becak/)
 
 ### Resensi (2020-2021)
 
-***Biem.co***, ***Lensasastra.id***
+- *Biem.co*
+  1. [*Budaya Urban yang Tak Pernah Mati* (Biem.co)](https://www.biem.co/read/2020/07/28/61914/budaya-urban-yang-tak-pernah-mati/)
 
-- [*Budaya Urban yang Tak Pernah Mati* (Biem.co)](https://www.biem.co/read/2020/07/28/61914/budaya-urban-yang-tak-pernah-mati/)
-- [*Betawi Dalam Fiksi* (Lensasastra.id)](https://lensasastra.id/2021/07/09/betawi-dalam-fiksi/)
+- *Lensasastra.id*
+  1. [*Betawi Dalam Fiksi* (Lensasastra.id)](https://lensasastra.id/2021/07/09/betawi-dalam-fiksi/)
 
 ## Pendidikan
 
@@ -123,8 +136,7 @@ Jln. Karang Mojo-Srabi Lor, Getassrabi RT/RT 03/04, Gebog, Kudus, Jawa Tengah, I
 
 **Fakultas Film dan Televisi, Institut Kesenian Jakarta**, Jakarta, Indonesia
 
-Mayor Kajian Sinema (*Cinema Studies*) dengan tugas akhir skripsi berjudul ***Rekonsiliasi Antara Suara dan Tatapan Perempuan dalam Layar: Telaah Lokus Audiovisual atas Karakter Perempuan Terhadap Film "Rayya:
-Cahaya di Atas Cahaya"*** dengan Indeks Prestasi Kumulatif (IPK) `3.76`.
+Mayor Kajian Sinema (*Cinema Studies*) dengan tugas akhir skripsi berjudul ***Rekonsiliasi Antara Suara dan Tatapan Perempuan dalam Layar: Telaah Lokus Audiovisual atas Karakter Perempuan Terhadap Film "Rayya: Cahaya di Atas Cahaya"*** dengan Indeks Prestasi Kumulatif (IPK) `3.76`.
 
 ### Kursus (2015-2016)
 
