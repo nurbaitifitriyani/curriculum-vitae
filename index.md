@@ -1,5 +1,5 @@
 ---
-title: 'Curriculum Vitae: Nurbaiti "Kanya" Fitriyani'
+title: 'Curriculum Vitae'
 author: Nurbaiti Fitriyani
 ---
 
@@ -27,7 +27,7 @@ Kanya Ahayu Ning Yatika Akasawakya
 
 ### Domisili
 
-Jln. Karang Mojo-Srabi Lor, Getassrabi RT/RT 03/04, Gebog, Kudus, Jawa Tengah, Indonesia, Kode Pos 59354
+Jln. Karang Mojo-Srabi Lor, Getassrabi RT/RW 03/04, Gebog, Kudus, Jawa Tengah, Indonesia, Kode Pos 59354
 
 ## Kontak
 
@@ -67,7 +67,7 @@ Jln. Karang Mojo-Srabi Lor, Getassrabi RT/RT 03/04, Gebog, Kudus, Jawa Tengah, I
 - Menonton Film
 - Membaca
 - Menulis
-- Bulutangkis
+- Bersepeda
 
 ## Portofolio
 
